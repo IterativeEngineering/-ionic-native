@@ -1,0 +1,19 @@
+{
+  "name": "inbox-opener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IterativeEngineering/-ionic-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IterativeEngineering/-ionic-native/issues"
+  },
+  "homepage": "https://github.com/IterativeEngineering/-ionic-native#readme"
+}
