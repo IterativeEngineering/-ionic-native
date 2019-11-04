@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IterativeEngineering/-ionic-native.git"
+    "url": "git+https://github.com/IterativeEngineering/ionic-native-inbox-opener.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IterativeEngineering/-ionic-native/issues"
+    "url": "https://github.com/IterativeEngineering/ionic-native-inbox-opener/issues"
   },
-  "homepage": "https://github.com/IterativeEngineering/-ionic-native#readme"
+  "homepage": "https://github.com/IterativeEngineering/ionic-native-inbox-opener#readme"
 }
